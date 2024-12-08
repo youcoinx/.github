@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/Y_hexagono.svg" alt="YouCoinX Logo" width="200"/>
+  <img src="assets/YCNX logo hexa.svg" alt="YouCoinX Logo" width="200"/>
   <h1>YouCoinX</h1>
   <p><strong>The Future of Digital Assets</strong></p>
 </div>
