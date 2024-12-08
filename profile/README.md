@@ -16,7 +16,7 @@
 
 
 ## 📄 Contract
-<a href="https://bscscan.com/token/0xCC232dceb487F7e2a5BEB46466765a90239579C" target="_blank" style="text-decoration: none; color: #007bff;">
+<a href="https://bscscan.com/address/0x6481125224efffDFD41A158b3DBdD8D9D8578978#code" target="_blank" style="text-decoration: none; color: #007bff;">
     View in BSC
 </a>
 
