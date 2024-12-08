@@ -13,12 +13,15 @@
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/youcoinx)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/youcoinx_announcements)
 
+
+
 ## 📄 Contract
+<a href="https://bscscan.com/token/0xCC232dceb487F7e2a5BEB46466765a90239579C" target="_blank" style="text-decoration: none; color: #007bff;">
+    View in BSC
+</a>
+
 
 ```solidity
 0xCC232dceb487F7e2a5BEB46466765a90239579C0
 
-<a href="https://bscscan.com/token/0xCC232dceb487F7e2a5BEB46466765a90239579C" target="_blank" style="text-decoration: none; color: #007bff;">
-    View in BSC
-</a>
 
