@@ -8,12 +8,13 @@
 
 🌟 First token backed by verified personal growth, introducing a revolutionary milestone-based validation technology that connects human achievement with digital value.
 
-## Links
+## 🔗 Links
 
-- [X (Twitter)](https://x.com/youcoinx)
-- [Telegram Announcements](https://t.me/youcoinx_announcements)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/youcoinx)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/youcoinx_announcements)
 
-## Contract
+## 📄 Contract
 
 ```solidity
 0xCC232dceb487F7e2a5BEB46466765a90239579C0
+
